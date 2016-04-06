@@ -4,7 +4,7 @@
 Plugin Name: Google Analytics by MhCodner
 Plugin URI: https://github.com/mhcodner/wp-google-analytics
 Description: Adds the necessary javascript for Google Analytics
-Version: 1.0
+Version: 15
 Author: Michael Codner
 Author URI: http://mhcodner.me
 License: GPL2
